@@ -1,0 +1,11 @@
+streamlit
+openai
+nltk
+pypdf
+python-dotenv
+requests
+langchain
+langchain-text-splitters
+langchain-openai
+sentence-transformers
+langchain-chroma
